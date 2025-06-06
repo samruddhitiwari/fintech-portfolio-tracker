@@ -1,5 +1,4 @@
-# Fintech Portfolio Tracker
-Sure! Here's your complete and detailed **README.md** file for your FinTech Portfolio Tracker. Just copy and paste this into your project. 🚀  
+# Fintech Portfolio Tracker 
 
 ---
 # 
