@@ -2,10 +2,7 @@
 Sure! Here's your complete and detailed **README.md** file for your FinTech Portfolio Tracker. Just copy and paste this into your project. 🚀  
 
 ---
-
-### **📄 Copy & Paste This File (`README.md`)**  
-```md
-# 💰 FinTech Portfolio Tracker
+# 
 
 ### 🚀 Overview
 FinTech Portfolio Tracker is a **privacy-first, real-time investment tracking tool** that allows users to manage their financial portfolios efficiently. With **live updates, data visualization, and a secure authentication system**, users can track investments, monitor portfolio trends, and make informed financial decisions.
